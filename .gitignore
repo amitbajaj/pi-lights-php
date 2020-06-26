@@ -1,0 +1,4 @@
+.vscode
+.vscode/*
+error_log
+db.php

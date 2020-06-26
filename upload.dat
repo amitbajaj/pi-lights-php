@@ -1,0 +1,3 @@
+open %FTPUNAME%:%FTPPASS%@ftp.bajajtech.in
+keepuptodate . public_html/lights
+exit
